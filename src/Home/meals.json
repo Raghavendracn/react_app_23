@@ -1,0 +1,37 @@
+[{
+"image":"images/dinner.png",
+"meal_type":"Breakfast",
+"discription":"start your day with exclusive breakfast option",
+"meal_id":1
+},
+
+{
+"image":"images/drinks.png",
+"meal_type":"Lunch",
+"discription":"start your day with exclusive breakfast option",
+"meal_id":2
+},
+{
+"image":"images/snacks.png",
+"meal_type":"Dinner",
+"discription":"start your day with exclusive breakfast option",
+"meal_id":3
+},
+{
+"image":"images/nightlife.png",
+"meal_type":"Breakfast",
+"discription":"start your day with exclusive breakfast option",
+"meal_id":4
+},
+{
+"image":"images/lunch.png",
+"meal_type":"Dinner",
+"discription":"start your day with exclusive breakfast option",
+"meal_id":5
+},
+{
+"image":"images/nukkad_pe.jpg",
+"meal_type":"Lunch",
+"discription":"start your day with exclusive breakfast option",
+"meal_id":6
+}]
